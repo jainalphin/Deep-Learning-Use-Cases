@@ -9,7 +9,7 @@ Trained and  Built a model using <b>LSTM</b> and get accuracy up to <b>91%</b>
 Trained and  Built a model using <b>LSTM</b> and get accuracy up to <b>88%</b>
 
 4. Tomato Disease
-Trained model using Transfer Learning. I have used model <b>inception V3<b/> for tomato disease prediction
+Trained model using Transfer Learning. I have used model <b>inception V3 </b> for tomato disease prediction
   
 5 Chest XRay pneumonia
-Trained model using Transfer Learning. I have used model <b>VGG 16 <b/> for Pneumonia prediction
+Trained model using Transfer Learning. I have used model <b>VGG 16 </b> for Pneumonia prediction
