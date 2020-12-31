@@ -4,6 +4,7 @@ Trained and Built a model using <b>ANN</b> and get accuracy up to <b>85%</b>.
 
 2. Fake News Classifies<br>
 Trained and  Built a model using <b>LSTM</b> and get accuracy up to <b>91%</b>.
+for the same data I have also trained and  built a model using <b>MultinomialNB Algorithm</b> and get accuracy up to <b>92%</b>.
 
 3. Sentiment IMDB Reviews <br>
 Trained and  Built a model using <b>LSTM</b> and get accuracy up to <b>88%</b>.
